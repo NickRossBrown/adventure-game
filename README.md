@@ -6,8 +6,9 @@
 #### Will Swanson, Eric Shull, Craig Wann, Nick Brown
 <img height="300" src="public/img/background.png">
 
-[Link to a YouTube playthrough (video contains major spoilers)](/https://www.youtube.com/watch?v=Tbav51uZGXE)
 
+
+[Link to a YouTube playthrough/walkthough of the web app WARNING: video contains spoilers](https://www.youtube.com/watch?v=Tbav51uZGXE)
 <hr />
 
 ## Description
